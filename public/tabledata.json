@@ -2,7 +2,7 @@
     {
         "person": {
             "name": "Prerna Jha",
-            "avatar": "profile.jpg"
+            "avatar": "profile.svg"
         },
         "city": "Mumbai",
         "email": "prernajha@gmail.com",
@@ -12,7 +12,7 @@
     {
         "person": {
             "name": "Rukmini Pandit",
-            "avatar": "profile.jpg"
+            "avatar": "profile.svg"
         },
         "city": "Delhi",
         "email": "rukminipandit@gmail.com",
@@ -22,7 +22,7 @@
     {
         "person": {
             "name": "Nandhini Lingesh",
-            "avatar": "profile.jpg"
+            "avatar": "profile.svg"
         },
         "city": "Delhi",
         "email": "nandhinilingesh@gmail.com",
@@ -32,7 +32,7 @@
     {
         "person": {
             "name": "Ankit Singh",
-            "avatar": "profile.jpg"
+            "avatar": "profile.svg"
         },
         "city": "Kolkata",
         "email": "ankitsingh@gmail.com",
@@ -42,7 +42,7 @@
     {
         "person": {
             "name": "Amith Kumar",
-            "avatar": "profile.jpg"
+            "avatar": "profile.svg"
         },
         "city": "Mumbai",
         "email": "amithkumar@gmail.com",
@@ -52,7 +52,7 @@
     {
         "person": {
             "name": "Shalini Singhla",
-            "avatar": "profile.jpg"
+            "avatar": "profile.svg"
         },
         "city": "Mumbai",
         "email": "shalinisinghla@gmail.com",
@@ -62,7 +62,7 @@
     {
         "person": {
             "name": "Abhishek Singh",
-            "avatar": "profile.jpg"
+            "avatar": "profile.svg"
         },
         "city": "Kolkata",
         "email": "abhisheksingh@gmail.com",
